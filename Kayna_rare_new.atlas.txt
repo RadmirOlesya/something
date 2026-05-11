@@ -1,0 +1,195 @@
+
+Kayna_rare_new.png
+size: 584,975
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Rare/Arm
+  rotate: true
+  xy: 510, 18
+  size: 269, 72
+  orig: 269, 72
+  offset: 0, 0
+  index: -1
+Rare/Arm1
+  rotate: false
+  xy: 472, 334
+  size: 77, 67
+  orig: 77, 67
+  offset: 0, 0
+  index: -1
+Rare/Body
+  rotate: false
+  xy: 316, 334
+  size: 154, 204
+  orig: 154, 211
+  offset: 0, 7
+  index: -1
+Rare/Eye1
+  rotate: false
+  xy: 516, 428
+  size: 36, 30
+  orig: 36, 30
+  offset: 0, 0
+  index: -1
+Rare/Eye2
+  rotate: false
+  xy: 479, 460
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+Rare/Eye3
+  rotate: false
+  xy: 516, 478
+  size: 33, 24
+  orig: 33, 24
+  offset: 0, 0
+  index: -1
+Rare/Eye4
+  rotate: false
+  xy: 481, 504
+  size: 33, 24
+  orig: 33, 24
+  offset: 0, 0
+  index: -1
+Rare/Eyebrow
+  rotate: false
+  xy: 479, 90
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1
+Rare/Glow
+  rotate: false
+  xy: 2, 540
+  size: 433, 433
+  orig: 467, 467
+  offset: 17, 17
+  index: -1
+Rare/HeadFlames0001
+  rotate: true
+  xy: 2, 249
+  size: 118, 257
+  orig: 118, 257
+  offset: 0, 0
+  index: -1
+Rare/HeadFlames0002
+  rotate: true
+  xy: 2, 5
+  size: 104, 248
+  orig: 118, 257
+  offset: 5, 6
+  index: -1
+Rare/HeadFlames0003
+  rotate: true
+  xy: 2, 140
+  size: 107, 242
+  orig: 118, 257
+  offset: 4, 6
+  index: -1
+Rare/HeadFlames0004
+  rotate: true
+  xy: 261, 222
+  size: 110, 247
+  orig: 118, 257
+  offset: 2, 6
+  index: -1
+Rare/HeadFlames0005
+  rotate: false
+  xy: 437, 540
+  size: 106, 247
+  orig: 118, 257
+  offset: 4, 6
+  index: -1
+Rare/HeadFlames0006
+  rotate: true
+  xy: 252, 2
+  size: 107, 225
+  orig: 118, 257
+  offset: 2, 6
+  index: -1
+Rare/HeadFlames0007
+  rotate: true
+  xy: 246, 111
+  size: 109, 237
+  orig: 118, 257
+  offset: 2, 6
+  index: -1
+Rare/Mouth1
+  rotate: false
+  xy: 516, 504
+  size: 48, 15
+  orig: 48, 15
+  offset: 0, 0
+  index: -1
+Rare/Mouth10
+  rotate: false
+  xy: 516, 521
+  size: 38, 14
+  orig: 38, 14
+  offset: 0, 0
+  index: -1
+Rare/Mouth2
+  rotate: false
+  xy: 516, 460
+  size: 49, 16
+  orig: 49, 16
+  offset: 0, 0
+  index: -1
+Rare/Mouth3
+  rotate: false
+  xy: 516, 403
+  size: 50, 23
+  orig: 50, 23
+  offset: 0, 0
+  index: -1
+Rare/Mouth4
+  rotate: false
+  xy: 510, 289
+  size: 48, 29
+  orig: 48, 29
+  offset: 0, 0
+  index: -1
+Rare/Mouth5
+  rotate: false
+  xy: 472, 403
+  size: 42, 32
+  orig: 42, 32
+  offset: 0, 0
+  index: -1
+Rare/Mouth6
+  rotate: false
+  xy: 551, 320
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+Rare/Mouth7
+  rotate: false
+  xy: 479, 67
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+Rare/Mouth8
+  rotate: false
+  xy: 479, 35
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+Rare/Mouth9
+  rotate: false
+  xy: 479, 52
+  size: 26, 13
+  orig: 26, 13
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 2, 369
+  size: 312, 169
+  orig: 314, 171
+  offset: 1, 1
+  index: -1
