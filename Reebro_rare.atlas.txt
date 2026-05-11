@@ -1,0 +1,202 @@
+
+Reebro_rare.png
+size: 3602,534
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Base
+  rotate: false
+  xy: 659, 99
+  size: 543, 433
+  orig: 547, 435
+  offset: 2, 1
+  index: -1
+Brains
+  rotate: false
+  xy: 2, 45
+  size: 655, 487
+  orig: 655, 487
+  offset: 0, 0
+  index: -1
+Butt
+  rotate: true
+  xy: 3135, 28
+  size: 273, 201
+  orig: 275, 204
+  offset: 1, 2
+  index: -1
+Eyeball
+  rotate: true
+  xy: 3449, 188
+  size: 344, 150
+  orig: 344, 150
+  offset: 0, 0
+  index: -1
+Eyelid2
+  rotate: false
+  xy: 2086, 24
+  size: 114, 114
+  orig: 116, 116
+  offset: 1, 1
+  index: -1
+Eyelid3
+  rotate: false
+  xy: 2202, 12
+  size: 114, 114
+  orig: 116, 116
+  offset: 1, 1
+  index: -1
+Eyelid4
+  rotate: false
+  xy: 2318, 12
+  size: 114, 114
+  orig: 116, 116
+  offset: 1, 1
+  index: -1
+Eyelid5
+  rotate: false
+  xy: 1747, 2
+  size: 114, 114
+  orig: 116, 116
+  offset: 1, 1
+  index: -1
+Foot1
+  rotate: false
+  xy: 1603, 118
+  size: 262, 414
+  orig: 266, 418
+  offset: 3, 3
+  index: -1
+Helmet
+  rotate: true
+  xy: 1204, 12
+  size: 520, 397
+  orig: 520, 397
+  offset: 0, 0
+  index: -1
+Iris
+  rotate: false
+  xy: 2, 37
+  size: 57, 57
+  orig: 59, 59
+  offset: 1, 1
+  index: -1
+K_air_puff_01
+  rotate: false
+  xy: 2, 495
+  size: 49, 37
+  orig: 51, 39
+  offset: 1, 1
+  index: -1
+K_air_puff_02
+  rotate: false
+  xy: 1026, 41
+  size: 89, 56
+  orig: 91, 58
+  offset: 1, 1
+  index: -1
+K_air_puff_03
+  rotate: false
+  xy: 919, 28
+  size: 105, 69
+  orig: 107, 71
+  offset: 1, 1
+  index: -1
+K_air_puff_04
+  rotate: false
+  xy: 700, 14
+  size: 116, 83
+  orig: 118, 85
+  offset: 1, 1
+  index: -1
+K_air_puff_05
+  rotate: false
+  xy: 567, 5
+  size: 131, 92
+  orig: 133, 94
+  offset: 1, 1
+  index: -1
+K_air_puff_06
+  rotate: false
+  xy: 1603, 13
+  size: 142, 103
+  orig: 144, 105
+  offset: 1, 1
+  index: -1
+K_footlight
+  rotate: false
+  xy: 2, 108
+  size: 33, 35
+  orig: 35, 36
+  offset: 1, 0
+  index: -1
+Leg
+  rotate: true
+  xy: 2086, 140
+  size: 392, 342
+  orig: 392, 342
+  offset: 0, 0
+  index: -1
+Mouth1
+  rotate: true
+  xy: 2973, 28
+  size: 385, 160
+  orig: 388, 162
+  offset: 1, 1
+  index: -1
+Mouth2
+  rotate: true
+  xy: 2803, 28
+  size: 385, 168
+  orig: 388, 170
+  offset: 1, 1
+  index: -1
+Mouth3
+  rotate: true
+  xy: 2621, 28
+  size: 385, 180
+  orig: 388, 182
+  offset: 1, 1
+  index: -1
+Pipe
+  rotate: false
+  xy: 1867, 116
+  size: 217, 416
+  orig: 219, 418
+  offset: 1, 1
+  index: -1
+Pipe1
+  rotate: 180
+  xy: 2276, 128
+  size: 344, 405
+  orig: 344, 405
+  offset: 0, 0
+  index: -1
+Pipe_tip
+  rotate: false
+  xy: 2484, 43
+  size: 135, 141
+  orig: 138, 143
+  offset: 2, 1
+  index: -1
+Shadow
+  rotate: false
+  xy: 3135, 303
+  size: 312, 168
+  orig: 314, 171
+  offset: 1, 1
+  index: -1
+Valve
+  rotate: false
+  xy: 818, 2
+  size: 99, 95
+  orig: 101, 97
+  offset: 1, 1
+  index: -1
+legtoe
+  rotate: false
+  xy: 3338, 44
+  size: 252, 142
+  orig: 288, 165
+  offset: 17, 11
+  index: -1
